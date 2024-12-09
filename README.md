@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Thien Nhan</h1>
 <h3 align="center">Student Computer Science, Ho Chi Minh City University of Technology</h3>
+<h3 align="center"> Robotics and Artificial Intelligence, HUTECH Institute of Engineering HUTECH University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [IELTS Speaking Assistant](https://github.com/thnhan05/IELTS-Speaking-Assistant)
 
