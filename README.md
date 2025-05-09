@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ai Engineer, Hardware Engineer**
 
-- 📫 How to reach me **thnhan.math@gmail.com**
+- 📫 How to reach me **thiennhan.math@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
